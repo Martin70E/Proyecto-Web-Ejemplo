@@ -12,6 +12,6 @@ Este es un proyecto simple de una página web estática creada como parte de una
     
 ## Branches
 - Main
-La rama main contiene la versión principal y estable del proyecto. En ella se encuentra la estructura base del sitio web con los archivos [index.html](https://github.com/Martin70E/Proyecto-Web-Ejemplo/blob/main/index.html) y [style.css](https://github.com/Martin70E/Proyecto-Web-Ejemplo/blob/main/style.css), representando una mini enciclopedia de Pokémon de la región Hoenn.
+\nLa rama main contiene la versión principal y estable del proyecto. En ella se encuentra la estructura base del sitio web con los archivos [index.html](https://github.com/Martin70E/Proyecto-Web-Ejemplo/blob/main/index.html) y [style.css](https://github.com/Martin70E/Proyecto-Web-Ejemplo/blob/main/style.css), representando una mini enciclopedia de Pokémon de la región Hoenn.
 - Feature-mejora-estilo
-En esta rama se realizan los cambios visuales y mejoras en el estilo del proyecto web.
+\nEn esta rama se realizan los cambios visuales y mejoras en el estilo del proyecto web.
